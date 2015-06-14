@@ -18,6 +18,7 @@ https://www.kaggle.com/forums/f/208/getting-started/t/2922/new-to-data-science-f
 http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/
 
 # Python
+http://ai.berkeley.edu/tutorial.html#PythonBasics
 https://www.youtube.com/watch?v=OSGv2VnC0go
 
 ## Data sets
